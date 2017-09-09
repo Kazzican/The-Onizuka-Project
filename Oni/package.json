@@ -1,0 +1,9 @@
+{
+  "name": "oni",
+  "version": "0.0.0",
+  "description": "Oni",
+  "main": "app.js",
+  "author": {
+    "name": "evanhw"
+  }
+}
